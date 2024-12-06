@@ -32,4 +32,3 @@ class Register(BaseCase):
         self.select_option_by_text(RegisterPage.TOURIST_OR_PROVIDER ,"Proveedor")
         self.click(RegisterPage.SELECT_ADULT)
         self.click(RegisterPage.REGISTER_BUTTON)
-
