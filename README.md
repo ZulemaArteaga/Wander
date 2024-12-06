@@ -86,4 +86,4 @@ deactivate env : `deactivate`
 `pytest tests/test_login.py`
 `pytest tests/test_register.py `
 # **Runing all tests and generate html report**
- - `pytest --html=report/report.html `# wander_igrowker_project
+ - `pytest --html=report/report.html `

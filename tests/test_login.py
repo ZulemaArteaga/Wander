@@ -58,3 +58,4 @@ class Login(BaseCase):
 
         self.assert_text("Contraseña no valida", LoginPage.ERROR_NOTIFICATION)
         self.assert_element_visible(LoginPage.ERROR_NOTIFICATION)
+
