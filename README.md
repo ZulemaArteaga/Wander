@@ -22,7 +22,7 @@ For this project, I am automating the following key processes:
 	[ ] Not included in automation: Login Attempt with Unregistered Account
 
 User Register Automation example:
-![wander.gif](:/1de47302f5b04795a922b5ca88152736)
+![User Register Automation](assets/wander.gif)
 
 # **Project Structure**
 ```
