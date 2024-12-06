@@ -11,3 +11,4 @@ class RegisterPage:
     TOURIST_OR_PROVIDER = "#role"
     SELECT_ADULT = "#age"
     REGISTER_BUTTON = "button[type='submit']"
+

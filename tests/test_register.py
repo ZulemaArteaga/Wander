@@ -33,4 +33,3 @@ class Register(BaseCase):
         self.click(RegisterPage.SELECT_ADULT)
         self.click(RegisterPage.REGISTER_BUTTON)
 
-
