@@ -27,6 +27,7 @@ User Register Automation example:
 # **Project Structure**
 ```
 wander
+└─── assets
 └─── pages
 	│   login_page.py
 	│   register_page.py
@@ -43,6 +44,8 @@ wander
 └─── requirements.text
 
 ```
+- **assets:**
+Contains resources used in this project, including images, GIFs, videos, icons, and other media files.
 - **pages**
   - `login_page.py`: Contains all the UI elements needed for the login page test.
   - `register_page.py`: Contains all the UI elements needed for the register page test.
